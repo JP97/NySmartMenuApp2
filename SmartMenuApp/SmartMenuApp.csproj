@@ -34,10 +34,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FunctionLibrary">
-      <HintPath>..\..\..\..\Desktop\programmerings-projekt\SmartMenuApp.Code-master\FunctionLibrary\bin\Debug\FunctionLibrary.dll</HintPath>
+      <HintPath>..\..\SmartMenuApp.Code-master\FunctionLibrary\bin\Debug\FunctionLibrary.dll</HintPath>
     </Reference>
     <Reference Include="SmartMenuLibrary">
-      <HintPath>..\..\..\..\Desktop\programmerings-projekt\SmartMenuApp.Code-master\SmartMenuLibrary\bin\Debug\SmartMenuLibrary.dll</HintPath>
+      <HintPath>..\..\SmartMenuApp.Code-master\SmartMenuLibrary\bin\Debug\SmartMenuLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
