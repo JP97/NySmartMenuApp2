@@ -1,14 +1,13 @@
-﻿menutitel
-menuvalg-forklaring;
-indtast 1 for do this
-intast 2 for do that
-intast 3 do something
-indtast 0 for exit
+﻿Calculator Menu
 
+1. Add
+2. Substract
+3. Multiply
+4. Divide
+5. Sum
+6. Minimum
+7. Maximum
+8. Average
 
-Menutitle;
-Menudecision-explanation
-press 1 for do this
-press 2 for do that
-press 3 for do something
-press 0 for exit
+(Enter menu item 1 to 9, or 0 to exit)
+
